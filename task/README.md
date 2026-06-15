@@ -14,4 +14,4 @@
 
 Пункт 4 не выполняется.
 
-Итоговые файлы: `reports/Отчёт.docx` и `reports/report.pdf`.
+Итоговые файлы: `reports/Отчёт.docx` и `reports/Отчёт.pdf`.
